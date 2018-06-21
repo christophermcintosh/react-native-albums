@@ -1,6 +1,6 @@
 # react-native-albums
 
-To Run In Terminal:
+To Run Simulator In Terminal/:
 
 Mac/Iphone: react-native run-ios
 
